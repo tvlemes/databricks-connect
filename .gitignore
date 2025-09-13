@@ -1,10 +1,10 @@
 
-# .databricks
-# typings
-# .gitignore
-# Readme.md
-# dev/
-# prod/
+.databricks
+typings
+.gitignore
+Readme.md
+dev/
+prod/
 databricks.yml
 .databricks.env
 .venv

@@ -154,6 +154,6 @@ Se ocorrer ao rodar testes no VSCode, certifique-se de que o PYTHONPATH está co
 ## 👨‍💻 Sobre
 
 Autor: Thiago Vilarinho Lemes <br>
-Home: https://thiagolemes.netlify.app/\
+Home: https://thiagolemes.netlify.app/ \
 LinkedIn <a href="https://www.linkedin.com/in/thiago-v-lemes-b1232727" target="_blank">Thiago Lemes</a><br>
 e-mail: contatothiagolemes@gmail.com | lemes_vilarinho@yahoo.com.br
